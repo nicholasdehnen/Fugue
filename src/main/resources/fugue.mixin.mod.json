@@ -32,7 +32,7 @@
     "solarflux.INetworkSFMixin",
     "solarflux.SolarFluxMixin",
     "subaquatic.IBubbleColumnMixin",
-    "tombstone.CancelLoadContributorsMixin",
+    "tombstone.HelperMixin",
     "unilib.FileUtilsMixin",
     "waterpower.ClassEngineMixin",
     "xaeroplus.ChunkHighlightSavingCacheMixin",
