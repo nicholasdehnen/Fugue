@@ -149,6 +149,9 @@ dependencies {
     //CustomNPCs Unofficial
     modImplementation "curse.maven:customnpcs-1086839:6166874"
 
+    //Corail Tombstone
+    modImplementation "curse.maven:corail-tombstone-243707:3211403"
+
     implementation 'org.jetbrains.kotlin:kotlin-stdlib:2.1.20'
 
     // Example - Dependency descriptor:
